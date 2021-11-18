@@ -11,4 +11,4 @@ Type this. `npm i` <br/>
 Then, make your own commands and run it.
 <br/><br/>
 ### Repository that used this template
-+ [**CoiniBot**](https://github.com/Gom0927/CoiniBot/)
+
